@@ -34,6 +34,12 @@ echo "export NVM_DIR=~/.nvm" >> ~/.bash_profile
 echo "source $(brew --prefix nvm)/nvm.sh" >> ~/.bash_profile
 ```
 
+
+### Install ZSH
+```bash
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
 ## Config
 ### VS Code
 ```bash

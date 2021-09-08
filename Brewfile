@@ -10,11 +10,15 @@ tap "phrase/brewed"
 ## Personal
 cask "slack"
 cask "google-chrome"
+cask "microsoft-edge"
 cask "firefox"
 cask "clipy"
 cask "spotify"
 cask "adobe-acrobat-reader"
 cask "figma"
+cask "1password"
+cask "notion"
+cask "zoomus"
 
 ## Development
 brew "zsh"

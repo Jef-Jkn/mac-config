@@ -1,4 +1,4 @@
-# Steps to configure Gillimac
+# Steps to configure a new mac
 
 ## Run this README
 Running this command will extract all of the code blocks from this README to README.sh and run it.
